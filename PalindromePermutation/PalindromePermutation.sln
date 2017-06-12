@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePermutation", "PalindromePermutation\PalindromePermutation.csproj", "{61E4D4F0-E64C-40A7-BBB3-CF9013F5E06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePermutation.Tests", "PalindromePermutation.Tests\PalindromePermutation.Tests.csproj", "{501866DF-0BDA-443E-9549-43BD4DD0873E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E4D4F0-E64C-40A7-BBB3-CF9013F5E06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E4D4F0-E64C-40A7-BBB3-CF9013F5E06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E4D4F0-E64C-40A7-BBB3-CF9013F5E06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E4D4F0-E64C-40A7-BBB3-CF9013F5E06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501866DF-0BDA-443E-9549-43BD4DD0873E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501866DF-0BDA-443E-9549-43BD4DD0873E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501866DF-0BDA-443E-9549-43BD4DD0873E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501866DF-0BDA-443E-9549-43BD4DD0873E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
